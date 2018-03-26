@@ -16,6 +16,8 @@ This application facilitates the Employees survey done by the Talent Services.
 * Logging - slf4j
 * TestNG
 * Gradle
+* Docker
+* Docker Compose
 
 ## CI/CD
 * Build Status - TravisCI
