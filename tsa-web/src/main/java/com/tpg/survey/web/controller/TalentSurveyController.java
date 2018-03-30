@@ -1,4 +1,4 @@
-package com.tpg.quality.web.controller;
+package com.tpg.survey.web.controller;
 
 import java.util.Map;
 
